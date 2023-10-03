@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\obj\Debug\BUTTON TEXTBOX.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\obj\Debug\BUTTON TEXTBOX.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\obj\Debug\BUTTON_TEXTBOX.Form1.resources
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\obj\Debug\BUTTON_TEXTBOX.Properties.Resources.resources
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\obj\Debug\BUTTON TEXTBOX.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\obj\Debug\BUTTON TEXTBOX.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\bin\Debug\BUTTON TEXTBOX.exe.config
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\bin\Debug\BUTTON TEXTBOX.exe
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\bin\Debug\BUTTON TEXTBOX.pdb
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\obj\Debug\BUTTON TEXTBOX.exe
+C:\Users\User\source\repos\BUTTON TEXTBOX\BUTTON TEXTBOX\obj\Debug\BUTTON TEXTBOX.pdb
